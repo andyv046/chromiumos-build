@@ -1,1 +1,0 @@
-rockchip-uboot-2017.09.ebuild

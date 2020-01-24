@@ -1,0 +1,1 @@
+rockchip-uboot-2020.01.ebuild
